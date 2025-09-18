@@ -4,4 +4,3 @@ I am a Ph.D. student at [xML LAB](https://sites.google.com/view/xml-nus) @ Natio
 
 [<img src="https://img.shields.io/badge/Personal Page-Visit-924E7D.svg" alt="page">](https://czg1225.github.io/chenzigeng99/) [<img src="https://img.shields.io/badge/Google Scholar-Visit-4E94CE.svg" alt="page">](https://scholar.google.com/citations?user=fmbaYzIAAAAJ)
 
-![czg1225's GitHub Stats](https://github-readme-stats.vercel.app/api?username=czg1225&show_icons=true&theme=cobalt)
